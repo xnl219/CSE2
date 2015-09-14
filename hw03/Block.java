@@ -1,3 +1,9 @@
+//Xavier Lema CSE2
+//HW 03 Block
+//user inputs lenght, height, and width
+//program calculates and prints the volume and surface area
+
+
 import java.util.Scanner;
 
 public class Block {

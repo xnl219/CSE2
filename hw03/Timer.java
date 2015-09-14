@@ -1,3 +1,9 @@
+//Xavier Lema CSE2
+//HW 03 Dinner Timer
+//Usser inputs current time and desired dinner time.
+//program calculates and prints out time left until dinner in the form:
+//You have (HH) hours and (MM) minutes left until dinner.
+
 
 import java.util.Scanner;
 
