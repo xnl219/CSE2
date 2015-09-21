@@ -1,3 +1,9 @@
+//Xavier Lema CSE2
+//hw04 PokerHandCheck
+//Program: Draw 5 random cards from5 separate 52 card deck. 
+//Then, let user know what poker hand he has.
+
+//Class
 public class PokerHandCheck {
     
     public static void main(String[] args)  {
